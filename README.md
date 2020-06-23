@@ -2,8 +2,7 @@
 
 A series of examples on how to build a light pod using Arduino MKR1010 and MKR1000 to make nice looking interactive lamps.
 
-![LightPod for MKR boards](https://github.com/dcuartielles/LightPod/raw/images/2018_lightpod.jpg "LightPod for MKR boards")
-
+![LightPod for MKR boards](https://github.com/dcuartielles/LightPod/blob/master/images/2018_lightpod.jpg?raw=true "LightPod for MKR boards")
 
 ## List of Examples
 
