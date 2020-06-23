@@ -37,4 +37,4 @@ Check out the code, everything is in the code ... follow the code.
 
 Remember, I made this code in less than 7 hours, there might be bugs here and there. I do take pull requests ;-)
 
-The pod was built in about * minutes.
+The pod was built in about 30 minutes.
